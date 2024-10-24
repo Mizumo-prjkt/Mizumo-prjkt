@@ -4,7 +4,7 @@
 
 <div align=center>
 
-<p style="font-size: 80px"><b>Hello, I'm Mizu!</b></p>
+<h1><b>Hello, I'm Mizu!</b></h1>
 <img src="https://img.shields.io/badge/Nice_to_Meet_You!-BrightGreen?style=flat">
 
 <p>I'm a Custom Kernel Maintainer and TWRP Port Mainter for A12s, and can do probably even more if my stupid brain allows it to</p>
