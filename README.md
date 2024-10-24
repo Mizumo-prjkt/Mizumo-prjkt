@@ -9,6 +9,8 @@
 
 <p>I'm a Custom Kernel Maintainer and TWRP Port Mainter for A12s, and can do probably even more if my stupid brain allows it to</p>
 
+<p>As of now, some of my repo's README are currently breaking itself and thats normal due to major big changes happening</p>
+
 </div>
  
 ---
