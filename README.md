@@ -18,7 +18,7 @@
 
 My GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUFandom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizumo-prjkt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
