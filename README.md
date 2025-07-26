@@ -24,13 +24,14 @@ My GitHub Stats:
 
 So, My Notable works???
 
-- [Super-patch](https://github.com/SUFandom/super-patch) - It's a tool to Patch super.img for Samsung Devices (and probably more than samsung, still needs to be proven)
-- [super-patch-action](https://github.com/SUFandom/super-patch-action) - A Github Action version of super-patch
-- [Codespace Kernel](https://github.com/SUFandom/codespace-kernel-compile) - A perfect script to try and build your own Kernel on the cloud using Gitpod (until April 2025), Github Codespaces, and DevZero
-- [Galaxy A12s Kernel](https://github.com/SUFandom/galaxy-a12s-kernel) - Galaxy A12s (SM-A127F) Kernel with my Modifications
-- [TWRP for A12s](https://github.com/SUFandom/Galaxy-A12s-UC-dtr) - I'm an unverified TWRP maintainer for A12s (Unverified due to not being evaluated by TWRP Recovery Project Group)
-- [proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux
-- [proot-distro-tui-u](https://github.com/SUFandom/proot-distro-tui-u) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux, but the difference is that its experimental
+- [Super-patch](https://github.com/Mizumo-prjkt/super-patch) - It's a tool to Patch super.img for Samsung Devices (and probably more than samsung, still needs to be proven)
+- [super-patch-action](https://github.com/Mizumo-prjkt/super-patch-action) - A Github Action version of super-patch
+- [Codespace Kernel](https://github.com/Mizumo-prjkt/codespace-kernel-compile) - A perfect script to try and build your own Kernel on the cloud using Gitpod (until April 2025), Github Codespaces, and DevZero
+- [Galaxy A12s Kernel](https://github.com/Mizumo-prjkt/galaxy-a12s-kernel) - Galaxy A12s (SM-A127F) Kernel with my Modifications
+- [TWRP for A12s](https://github.com/Mizumo-prjkt/Galaxy-A12s-UC-dtr) - I'm an unverified TWRP maintainer for A12s (Unverified due to not being evaluated by TWRP Recovery Project Group)
+- [proot-distro-tui](https://github.com/Mizumo-prjkt/proot-distro-tui) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux
+- [proot-distro-tui-u](https://github.com/Mizumo-prjkt/proot-distro-tui-u) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux, but the difference is that its experimental
+- - [Hardware Tycoon(in dev)](https://github.com/TrinityX-Studios/hardware-tycoon) - A game where you sell your CPU to the market and compete with AI competitors. (In development)
 
 
 
