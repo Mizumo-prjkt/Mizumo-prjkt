@@ -31,7 +31,7 @@ So, My Notable works???
 - [TWRP for A12s](https://github.com/Mizumo-prjkt/Galaxy-A12s-UC-dtr) - I'm an unverified TWRP maintainer for A12s (Unverified due to not being evaluated by TWRP Recovery Project Group)
 - [proot-distro-tui](https://github.com/Mizumo-prjkt/proot-distro-tui) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux
 - [proot-distro-tui-u](https://github.com/Mizumo-prjkt/proot-distro-tui-u) - A PRoot Wrapper for Installing, Running and Removing Distros for Termux, but the difference is that its experimental
-- - [Hardware Tycoon(in dev)](https://github.com/TrinityX-Studios/hardware-tycoon) - A game where you sell your CPU to the market and compete with AI competitors. (In development)
+- [Hardware Tycoon(in dev)](https://github.com/TrinityX-Studios/hardware-tycoon) - A game where you sell your CPU to the market and compete with AI competitors. (In development)
 
 
 
